@@ -9,3 +9,4 @@ git add .\Nome do Arquivo
 
 
 * comando git push
+* comando git pull
